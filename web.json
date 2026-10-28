@@ -1,1 +1,15 @@
-{"surumler":[],"imza":"","anahtarKimligi":""}
+{
+  "surumler": [
+    {
+      "surum": "0.1.0",
+      "tarih": "2026-10-28T08:29:35Z",
+      "gitSha": "35fe6fcabc0aa319984586362b8013a340b9a48e",
+      "manifestSha256": "ffe6df578db47e4a86d3a25673f99d3d42f4d2d1fd431a082d2f177d9a0f8d19",
+      "tManifestSha256": "f3ea4a9567474367a0447e76053c8d2404f3b537be5ab4a1ee0e90faa686546d",
+      "importmapSha256": "wSpSVZSTKmVQ5vjIF5hKV6ne4pEd/zDhlWomQnCNWRQ=",
+      "wasmSha256": "6afe8d972f9ee0260abec8a968286fbbae53d937b7f59f709f8b8bbfc3752c10"
+    }
+  ],
+  "imza": "Vd5Iea4qjbOWw52r4JoVyF1EPywWcp2GjV/54TZi1AnnoihfEGiGFyC9r6mTAB5EvN4k6PxII+ZLP0vPI+f+AQ==",
+  "anahtarKimligi": "ed25519:d3bc08c290001feb"
+}
